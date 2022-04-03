@@ -1,0 +1,1642 @@
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.11"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2781"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 c5 8.
+dxc5 d4 9. Qf3 Nbd7 10. e3 h6 11. Bxf6 Nxf6 12. O-O-O e5 13. Ne2 Bg4 14. Qg3 Ne4
+15. Qxg4 Nxf2 16. Qf3 Nxd1 17. exd4 Nxb2 18. Kxb2 Rc8 19. d5 Rxc5 20. Nc3 b5 21.
+Be2 bxc4 22. Ka2 f5 23. Rb1 Qg5 24. Rd1 e4 25. Qf2 e3 26. Qg3 Qxg3 27. hxg3 Kf7
+28. Rf1 Ke7 29. Rf3 Kd7 30. Bd1 Rf7 31. Ba4+ Kd8 32. Rxe3 Re7 33. Rf3 Re5 34. d6
+h5 35. d7 g5 36. Rf1 Ra5 37. Rh1 Rxa4 38. Nxa4 Re2+ 39. Kb1 Kxd7 40. Rxh5 Re3
+41. Rxg5 Rxa3 42. Nb2 Rc3 43. Rxf5 Rxg3 44. Rf2 Rg4 45. Rc2 c3 46. Nd1 Ke6 47.
+Nxc3 Ke5 48. Re2+ Kd4 49. Kc2 a5 50. Kd2 Rg3 51. Nd1 Rd3+ 52. Kc1 Rg3 53. Kc2 a4
+54. Rd2+ Kc4 55. Nb2+ Kb4 56. Nd3+ Kc4 57. Ne5+ Kc5 58. Kb2 a3+ 59. Ka2 Kb4 60.
+Rc2 Re3 61. Nc6+ Kb5 62. Nd4+ Kb4 63. Re2 Rg3 64. Nc2+ Kc4 65. Nxa3+ Kd3 66. Rb2
+Rg4 67. Nc2 Ke2 68. Nd4+ Ke3 69. Nf3 Re4 70. Kb1 Kf4 71. Kc1 Kg3 72. Kd1 Re8 73.
+Ne1 Re3 74. Kd2 Ra3 75. Ke2 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.11"]
+[White "Nakamura, Hikaru"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2789"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. Be3
+Ng4 9. Bg5 h6 10. Bh4 g5 11. Bg3 Bg7 12. Qd2 Nc6 13. Nb3 b5 14. h4 gxh4 15. Bxh4
+Be6 16. O-O-O Rc8 17. f4 Bxb3 18. cxb3 Qb6 19. Rh3 O-O 20. Kb1 e6 21. f5 exf5
+22. exf5 Qd4 23. Qxd4 Bxd4 24. Be2 Ne3 25. Rg3+ Kh7 26. Rxd4 Nxf5 27. Bd3 Nxd4
+28. Bf6 Rg8 29. Bxd4 Rxg3 30. Bxf5+ Kg8 31. Bxc8 Rxg2 32. Bxa6 b4 33. Nd5 Rd2
+34. Ne7+ Kf8 35. Nf5 h5 36. Bf6 Rf2 37. Bc8 Rf1+ 38. Kc2 Ra1 39. Be7+ Kg8 40.
+Bxd6 Rxa2 41. Bxb4 Ra8 42. Nd6 Ra1 43. Bc5 h4 44. b4 Rh1 45. Ne4 Re1 46. Nf2 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.11"]
+[White "So, Wesley"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2759"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "12573981"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. f3 Qc7 10. b3 Qa5 11. Bd2 Nc6 12. Nde2 O-O 13. O-O Nd7 14. Kh1 Nc5
+15. Nd5 Qd8 16. Bc3 Bxc3 17. Ndxc3 a6 18. a4 Rc8 19. Rb1 Nb4 20. Qd2 e5 21. f4
+f6 22. f5 Rc7 23. Rf3 Rg7 24. a5 b6 25. axb6 Qxb6 26. fxg6 hxg6 27. Nd5 Nxd5 28.
+Qxd5+ Kh8 29. b4 a5 30. b5 Rh7 31. Nc3 Kg7 32. Rd1 Rd8 33. h3 Rh4 34. Kh2 Rd7
+35. Qc6 Qxc6 36. bxc6 Rd8 37. c7 Rc8 38. Rxd6 Rxc7 39. Rfxf6 Nxe4 40. Rxg6+ Kf7
+41. Nxe4 Rxe4 42. Rdf6+ Ke7 43. Ra6 Kf7 44. Raf6+ Ke7 45. Rh6 a4 46. Ra6 Rexc4
+47. Rhe6+ Kd7 48. Rxe5 R7c6 49. Raa5 Rd6 50. Ra7+ Kc6 51. Rea5 Rdd4 52. R7a6+
+Kb7 53. Rg6 Re4 54. Rb5+ Kc7 55. Rf5 Kb7 56. g4 Rc6 57. Rxc6 Kxc6 58. Kg3 Re3+
+59. Kh4 a3 60. Ra5 Kb6 61. Ra8 Kb5 62. g5 Re4+ 63. Kh5 Ra4 64. Rb8+ Kc6 65. Rb1
+a2 66. Ra1 Kd6 67. Kh6 Ke7 68. Kg7 Ke6 69. g6 Kf5 70. h4 Ra7+ 71. Kh6 Ra6 72.
+Kh7 Ra4 73. h5 Kg5 74. g7 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.11"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. Kb1 Qc7 12. g4 h5 13. gxh5 Nxh5 14. Bxe7
+Kxe7 15. Rg1 g6 16. Qd2 Nf6 17. f4 Rh5 18. Rg5 Rah8 19. e5 Ne8 20. Ne4 d5 21.
+Rxh5 Rxh5 22. Qb4+ Kd8 23. Ng5 Bc6 24. Qf8 Qe7 25. Nxf7+ Kd7 26. Qg8 Rf5 27. Ng5
+Ng7 28. c4 Rxf4 29. cxd5 Bxd5 30. Bh3 Kc6 31. Qc8+ Kb6 32. Nxe6 Bxe6 33. Bxe6
+Nxe6 34. Rd6+ Ka7 35. Rxe6 Rf1+ 36. Kc2 Rf2+ 37. Kb3 Rf3+ 38. Kc4 Qh4+ 39. Kc5
+b6+ 40. Kc6 Qc4+ 41. Kd7 Rf7+ 42. Ke8 Qxc8+ 43. Kxf7 Qc4 44. b3 Qf4+ 45. Kxg6
+Kb7 46. Re8 Kc7 47. e6 Kd6 48. Kg7 Qxh2 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.12"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2847"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 d6 7. Bg5 Ba7 8. O-O h6
+9. Bh4 g5 10. Bg3 h5 11. h4 Nh7 12. Kh1 g4 13. Nh2 Nf8 14. d4 Ng6 15. Bxc6+ bxc6
+16. dxe5 dxe5 17. Nd2 Be6 18. Nb3 Qxd1 19. Rfxd1 Bb6 20. Nf1 Ke7 21. Ne3 a5 22.
+Kg1 a4 23. Nc1 Bxe3 24. fxe3 Rhb8 25. Nd3 f6 26. Rd2 Nh8 27. Nb4 Rb6 28. Rf1 c5
+29. Nd3 Rd8 30. Rfd1 Rbd6 31. Be1 g3 32. Nxc5 Bg4 33. Rxd6 cxd6 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.12"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2736"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be6 11. g4 Ne7 12. Nd4 Bd7 13. f4 h5 14. f5 hxg4
+15. e6 fxe6 16. fxe6 Bc8 17. Bg5 gxh3 18. Kh2 Ng6 19. Ne4 Rh5 20. Rg1 a6 21.
+Rad1 Ne7 22. Rdf1 c5 23. Rxf8+ 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.12"]
+[White "Firouzja, Alireza"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2770"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "12573981"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 h6 8. h3 a5
+9. Bb3 Be6 10. Ba4 Bb6 11. d4 Bd7 12. Be3 exd4 13. cxd4 Re8 14. d5 Ne5 15. Nxe5
+Bxa4 16. Qxa4 Bxe3 17. Rxe3 Rxe5 18. Nd2 Qd7 19. Qc2 Rae8 20. Rae1 R5e7 21. Qc3
+Qa4 22. f3 Qb4 23. Kf2 Qxc3 24. bxc3 a4 25. g4 Nd7 26. Rb1 Nc5 27. Nf1 c6 28. c4
+Rc7 29. Ra3 g6 30. Ne3 Kg7 31. Ke2 Rh8 32. Rc3 h5 33. g5 h4 34. Rcc1 Rh5 35. Rg1
+Rh8 36. Rb4 Rh5 37. Rg4 Rh8 38. Rg1 Rh5 39. Rb2 Rh8 40. Rd2 Rh5 41. Rd4 Rh8 42.
+Rb1 Re7 43. Kf2 Rh5 44. Rg1 Re5 45. Ng4 Re7 46. Nf6 Rh8 47. dxc6 bxc6 48. Rxd6
+Rb7 49. Ke3 Rb2 50. Rgd1 Rxa2 51. Rxc6 Ra3+ 52. Ke2 Ra2+ 53. Ke3 Ra3+ 54. Ke2
+Ra2+ 55. Kf1 Nb3 56. Rcd6 a3 57. Rd8 Rxd8 58. Rxd8 Nd2+ 59. Ke2 Nxe4+ 60. Ke3
+Nxf6 61. gxf6+ Kxf6 62. Ra8 Ra1 63. Ra6+ Kf5 64. Ra5+ Ke6 65. Ra6+ Kf5 66. Ra5+
+Ke6 67. Ra6+ Kd7 68. Kf2 a2 69. Kg2 Kc7 70. c5 Kb7 71. Ra4 Kc6 72. Ra5 g5 73.
+Kh2 Kd5 74. Kg2 f6 75. Kh2 Kc4 76. c6 Kb3 77. c7 Rc1 78. Ra7 Rc2+ 79. Kg1 Rxc7 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.12"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2776"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c4 Nf6 5. Nc3 e6 6. O-O Be7 7. d4 cxd4 8. Nxd4
+O-O 9. Bxd7 Bxd7 10. Be3 a6 11. a4 Qa5 12. Rc1 Rfc8 13. b3 d5 14. e5 Ne8 15.
+Nde2 Nc7 16. c5 Bxc5 17. Bxc5 Qxc5 18. Ne4 Qb6 19. Nd6 Rcb8 20. Nf4 Ne8 21. Nh5
+Nxd6 22. exd6 f5 23. Rc3 Rf8 24. Qd2 Qxd6 25. Rfc1 Bc6 26. Rg3 Rf7 27. Rcc3 f4
+28. Rg5 e5 29. Qe2 Re8 30. Rh3 h6 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.13"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2781"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. c4 e6 8.
+Nc3 Bc6 9. O-O Be7 10. Rd1 Nf6 11. Qd3 O-O 12. Nd4 Qa5 13. Nxc6 bxc6 14. Bd2 Qh5
+15. h3 Rfd8 16. Bf4 g5 17. Qg3 Ne8 18. Be3 c5 19. e5 dxe5 20. Rxd8 Rxd8 21. Qxe5
+Qg6 22. Bxc5 Bf6 23. Qe2 Bxc3 24. bxc3 Qd3 25. Qxd3 Rxd3 26. Rb1 f6 27. Rb8 Kf7
+28. Rb7+ Kg6 29. Bf8 Rd8 30. c5 Rc8 31. Rb6 Kf7 32. Bd6 Nxd6 33. cxd6 Rxc3 34.
+Rxa6 Rc1+ 35. Kh2 e5 36. g4 Ke6 37. d7+ Kxd7 38. Rxf6 Rc2 39. Kg3 Rxa2 40. Rf5
+Ra3+ 41. Kg2 Ke6 42. Rxg5 Ra7 43. Rf5 Rb7 44. Kg3 Rb3+ 45. Kg2 Rb7 46. Kg3 Rb3+
+47. Kg2 Rb7 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.13"]
+[White "Nakamura, Hikaru"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2789"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Qf3 d5 8.
+Qg3 f5 9. exf5 exf5 10. Bg5 Be7 11. Bxe7 Qxe7+ 12. Qe3 Qxe3+ 13. fxe3 Nf6 14.
+Na4 a5 15. Bd3 Rb8 16. a3 Ke7 17. Rb1 Kd6 18. b4 axb4 19. axb4 Re8 20. Kd2 Ng4
+21. Rhe1 Nxh2 22. Rh1 Ng4 23. Rxh7 Rb7 24. Rh5 g6 25. Rh3 Rbe7 26. Nb6 Bb7 27.
+c4 Kc7 28. c5 Nxe3 29. Rg3 Ng4 30. Ra1 Ne5 31. Bf1 f4 32. Rga3 Rd8 33. Ra7 Nc4+
+34. Nxc4 dxc4+ 35. Kc3 Re3+ 36. Kxc4 Kb8 37. R7a3 Rxa3 38. Rxa3 Rd2 39. Rf3 g5
+40. g3 fxg3 41. Rxg3 Rd7 42. Bg2 Rg7 43. Kd4 Kc7 44. Ke5 g4 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.13"]
+[White "So, Wesley"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2759"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "12573981"]
+[EventDate "2021.03.16"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. a4 g5 8. a5 a6 9.
+b4 Nd7 10. c3 f6 11. exf6 Ng6 12. f7+ Kxf7 13. Nbd2 Bd6 14. Nb3 Qc7 15. g3 Nf6
+16. Bd3 g4 17. Ne1 h5 18. Ra2 h4 19. Nc5 Rh5 20. Re2 hxg3 21. fxg3 Bxg3 22. hxg3
+Qxg3+ 23. Rg2 Qh3 24. Nxe6 Bxe6 25. Nf3 Nh4 26. Nxh4 Qxh4 27. Bf4 Rah8 28. Qe2
+Qh1+ 29. Kf2 Qh4+ 30. Kg1 g3 31. Bxg3 Qh3 32. Be5 R5h6 33. Rxf6+ Rxf6 34. Bxf6
+Qh1+ 35. Kf2 Rh2 36. Rxh2 Qxh2+ 37. Ke1 Qg3+ 38. Kd2 Kxf6 39. Qe5+ Qxe5 40.
+dxe5+ Kxe5 41. Ke3 Bf5 42. Be2 Be4 43. Bg4 Bf5 44. Bf3 Be6 45. Bg2 Bg4 46. Bh1
+Bf5 47. Bg2 Bd7 48. Bf3 Bh3 49. Bh1 Bf1 50. Bf3 Bb5 51. Bg2 Ba4 52. Bf3 Bc2 53.
+Bg2 Bb1 54. Bf3 Be4 55. Bg4 Bg2 56. Bc8 d4+ 57. cxd4+ Kd5 58. Kd3 Bf1+ 59. Kc3
+Kd6 60. d5 Kc7 61. Be6 cxd5 62. Bxd5 b6 63. axb6+ Kxb6 64. Bc4 Bxc4 65. Kxc4 a5
+66. bxa5+ Kxa5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.13"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. Kb1 Qc7 12. Qd2 b5 13. h4 h6 14. Be3 h5
+15. Bd3 b4 16. Ne2 e5 17. Bg5 a5 18. c3 Be6 19. Bb5+ Nd7 20. c4 f6 21. Be3 Kf7
+22. f4 Kg8 23. Bxd7 Qxd7 24. fxe5 Bxc4 25. exd6 Qxd6 26. Qxd6 Bxd6 27. Rxd6 Bxe2
+28. Re1 Bg4 29. e5 fxe5 30. Rd5 Kh7 31. Rxe5 a4 32. Bd2 b3 33. Bc3 Ra7 34. axb3
+axb3 35. Re7 Rxe7 36. Rxe7 Rd8 37. Re1 Rd7 38. Kc1 Kg6 39. Bd2 Rc7+ 40. Bc3 Rd7
+41. Bd2 Rc7+ 42. Bc3 Rd7 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.14"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2736"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Nh4 13. Nxh4 Bxh4 14. Ne2
+Be7 15. Nd4 g5 16. Bh2 Rh6 17. Rfe1 Bd8 18. f4 gxf4 19. Bxf4 Rg6 20. e6 Bxe6 21.
+Nxe6 Rxe6 22. Rxe6+ fxe6 23. Kf2 Bf6 24. b3 Rc8 25. g4 hxg4 26. hxg4 Ke7 27. Rh1
+Rh8 28. Rxh8 Bxh8 29. Bxc7 Bf6 30. Kf3 Kf7 31. Ke4 a6 32. Be5 Be7 33. Kd4 Kg6
+34. Bc7 Kf6 35. Bg3 Ba3 36. Bh4+ Kf7 37. Ke5 Bb4 38. c4 a5 39. g5 Bc3+ 40. Kd6
+e5 41. Kc7 e4 42. Kxb7 e3 43. Kxc6 Kg6 44. Kd5 Kh5 45. Bg3 Kxg5 46. Ke4 e2 47.
+c5 Kf6 48. Kd5 Ke7 49. Kc6 Bb4 50. Bh4+ Ke8 51. Kd6 Ba3 52. Kc6 Bb4 53. Kd6 Ba3
+54. Kc6 Bb4 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.16"]
+[Round "1.14"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2776"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c4 e5 5. O-O Ne7 6. Nc3 a6 7. Bxd7+ Bxd7 8.
+Rb1 Nc6 9. Nd5 b5 10. d3 Be7 11. Be3 O-O 12. Nd2 Be6 13. f4 exf4 14. Bxf4 Bg5
+15. Bg3 Bh4 16. Bf4 Bg5 17. Bg3 Bh4 18. Bf4 Bg5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.21"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2847"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8. Bg5
+exd4 9. e5 h6 10. Bh4 g5 11. Bxc6 dxc6 12. Nxg5 dxc3 13. Qxd8 Rxd8 14. Nxc3 Nd5
+15. Nge4 Nxc3 16. bxc3 Rd3 17. Rad1 Rxd1 18. Rxd1 Be6 19. a3 f5 20. exf6 Re8 21.
+h3 Bb3 22. f7+ Kxf7 23. Rd7+ Kg6 24. Nd2 Re1+ 25. Kh2 Be6 26. Rd8 Re2 27. Nf3
+Bxf2 28. Bxf2 Rxf2 29. Kg3 Rc2 30. Rd3 Bd5 31. Kf4 Kf6 32. g4 Rf2 33. h4 b5 34.
+Kg3 Rxf3+ 35. Rxf3+ Bxf3 36. Kxf3 c5 37. Ke4 c6 38. Kf4 a5 39. Ke4 a4 40. Kd3
+Ke5 41. Ke3 b4 42. Kd2 b3 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.21"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2736"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
+a5 9. Nf1 Be6 10. Bb5 Ne7 11. d4 exd4 12. cxd4 Bb6 13. Ng3 d5 14. e5 Ne4 15. Bd3
+Nf5 16. Nxe4 dxe4 17. Rxe4 c5 18. Qe2 cxd4 19. Rf4 Qd7 20. Nh4 Nxh4 21. Rxh4 Bd8
+22. Rh5 g6 23. Rxh6 Kg7 24. h4 Bf5 25. h5 Rc8 26. Bd2 Bxd3 27. Qxd3 Qf5 28. Qxf5
+gxf5 29. Rd6 Re8 30. Re1 Rc2 31. Rxd4 Rxb2 32. Rd7 Kg8 33. h6 Rc2 34. Re3 f4 35.
+Red3 Bg5 36. Rh3 Rxa2 37. e6 fxe6 38. Bc3 e5 39. Rg7+ 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.21"]
+[White "Firouzja, Alireza"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2770"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "12573981"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
+a6 9. a4 Re8 10. Qb3 Be6 11. a5 Rb8 12. Nf1 d5 13. exd5 Bxd5 14. Ng3 Bxc4 15.
+Qxc4 Qd5 16. Ne4 Qxc4 17. Nxf6+ gxf6 18. dxc4 Kh7 19. b4 Bf8 20. Be3 Rbd8 21.
+Rad1 f5 22. g3 Bg7 23. Rd5 e4 24. Nh4 Bxc3 25. Rc1 Bf6 26. Nxf5 h5 27. b5 Nb4
+28. Rxd8 Rxd8 29. h3 Nd3 30. Rb1 Kg6 31. bxa6 bxa6 32. g4 hxg4 33. hxg4 Ne5 34.
+Ng3 Bg5 35. Nxe4 Bxe3 36. fxe3 Nxg4 37. Rb3 Rd1+ 38. Kg2 Ra1 39. Kg3 Ne5 40. Rb7
+Kf5 41. Nc5 Rxa5 42. Rxc7 Ra3 43. Kf2 a5 44. Ra7 Kg4 45. e4 Kf4 46. Ke2 Ra2+ 47.
+Kd1 Ke3 48. Kc1 Kd4 49. Rxa5 Nd3+ 50. Kd1 Nf2+ 51. Ke1 Nd3+ 52. Kf1 Rxa5 53.
+Nb3+ Kxc4 54. Nxa5+ Kd4 55. Nb7 f5 56. exf5 Ke5 57. f6 Kxf6 58. Nd6 Nf2 59. Ne4+
+Nxe4 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.21"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2776"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Qd3 Be6 10. Bd2 Re8 11. Nd5 Nxd5 12. exd5 Bc8 13. a4 a5 14. f4 Nd7 15.
+Qe3 exf4 16. Qxf4 Ne5 17. Bb5 Rf8 18. Rae1 Bf6 19. Nd4 Ng4 20. Ne6 fxe6 21. Qxg4
+e5 22. Qg3 Bd7 23. Qb3 Qb6+ 24. Be3 Qc7 25. Bd3 Rae8 26. Bb6 Qc8 27. Qa3 Qb8 28.
+Be4 Bd8 29. Be3 Bh4 30. g3 Be7 31. Qd3 h6 32. Qd2 b5 33. Bxh6 bxa4 34. Bg5 Bh3
+35. Rxf8+ Rxf8 36. Bxe7 Qa7+ 37. Kh1 Qxe7 38. Bg2 Bxg2+ 39. Kxg2 Qb7 40. Qxa5
+Ra8 41. Qc3 Rc8 42. Qd3 Qxb2 43. Re2 Qb7 44. c4 Ra8 45. Qa3 Qb6 46. Rf2 Qc7 47.
+Rc2 Qb6 48. Rf2 Qc7 49. Rc2 Qb6 50. Rf2 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.22"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2781"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Nb5 c5 12. a3 Ba5 13. b4 Bb6 14. bxc5 Bxc5
+15. c3 h6 16. Bh4 Rc8 17. Nd4 Bxd4 18. cxd4 g5 19. Bg3 Ne4 20. Qa4 Nxg3 21. hxg3
+Rc3 22. Qd1 Qf6 23. Qd2 Rfc8 24. Rfe1 Bf5 25. Bxf5 Qxf5 26. Re5 Qd3 27. Qxd3
+Rxd3 28. Rxd5 Rc2 29. Ra5 Rxd4 30. Rxa7 Rdd2 31. Rf1 Ra2 32. a4 Kg7 33. Ra5 Rd4
+34. Re1 Rdxa4 35. Rxa4 Rxa4 36. f3 g4 37. fxg4 Rxg4 38. Kf2 Rg5 39. Re4 Kg6 40.
+g4 Ra5 41. Kg3 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.22"]
+[White "Nakamura, Hikaru"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2789"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Nb3 b5 8. Bd3
+Bb7 9. O-O d6 10. Bd2 Nf6 11. Qf3 Be7 12. Rae1 b4 13. Nd1 a5 14. Nf2 a4 15. Nc1
+Nd4 16. Qd1 d5 17. e5 Ne4 18. Ne2 Nf5 19. Kh1 Qb6 20. Nh3 Bh4 21. Bc1 Bxe1 22.
+Qxe1 O-O 23. Ng3 b3 24. axb3 axb3 25. Ng5 Nfxg3+ 26. hxg3 bxc2 27. f5 exf5 28.
+Rxf5 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.22"]
+[White "So, Wesley"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2759"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "12573981"]
+[EventDate "2021.03.16"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. Nb3 g5
+9. Bd2 a5 10. a4 Qc7 11. c3 f6 12. exf6 Ng6 13. c4 Bd6 14. cxd5 exd5 15. Bd3
+Bxd3 16. Bxa5 Rxa5 17. Qxd3 Kf7 18. Nxa5 Qxa5 19. Qf5 Qd8 20. Rae1 Ngf8 21. Re7+
+Bxe7 22. fxe7+ Kxe7 23. Re1+ Kd6 24. Ne5 Rh7 25. Nxd7 Qxd7 26. Qe5# 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.22"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. Kb1 Qc7 12. Qd2 b5 13. g4 h5 14. gxh5 Nxh5
+15. h4 b4 16. Ne2 a5 17. c3 f6 18. Be3 e5 19. Bh3 Bxh3 20. Rxh3 Qc4 21. cxb4
+axb4 22. b3 Qe6 23. Rh2 f5 24. Bg5 fxe4 25. fxe4 O-O 26. Bxe7 Qxe7 27. Qxb4 Qa7
+28. Nc3 Nf6 29. Qxd6 Qe3 30. Qd3 Qc5 31. Nd5 Kh8 32. Nxf6 Rxf6 33. h5 Raa6 34.
+Rc2 Qa3 35. Qg3 Qe7 36. Rdc1 Rf4 37. Rc8+ Kh7 38. R8c6 Rxc6 39. Rxc6 Qd7 40. Rc1
+Rg4 41. Qxe5 Qd3+ 42. Ka1 Rg2 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.23"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2847"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 Ne7 11. Nd4 Bg4 12. f3 Bd7 13. a4 Nf5 14. Nde2
+Bc5+ 15. Kf1 h5 16. Ne4 Be7 17. Kf2 c5 18. Bg5 b6 19. Nf4 Bc6 20. Nd5 Bxd5 21.
+Rxd5 Nd4 22. c3 Ne6 23. Be3 Rd8 24. Rad1 Rxd5 25. Rxd5 h4 26. f4 Rh5 27. c4 Nd8
+28. Kf3 Nc6 29. b3 Na5 30. Rd3 Nc6 31. Rd5 Nb4 32. Rd2 Nc6 33. Kg4 Rh6 34. Rd5
+Rg6+ 35. Kf3 Re6 36. Bf2 Nd4+ 37. Bxd4 c6 38. Bxc5 cxd5 39. cxd5 Rh6 40. Bd4 Rh5
+41. Kg4 g6 42. Kf3 Kd7 43. Nd2 Bb4 44. Nc4 Ke7 45. Ke4 Rh8 46. Bf2 h3 47. g4 Bc5
+48. Bg3 b5 49. Na5 bxa4 50. bxa4 f5+ 51. gxf5 gxf5+ 52. Kxf5 Rg8 53. Bh4+ Kd7
+54. e6+ Kc7 55. Bg5 Bg1 56. Kg4 Kd6 57. Nc6 Bxh2 58. Kxh3 Rh8+ 59. Kg4 Kxd5 60.
+Nd4 Bxf4 61. Kxf4 Kxd4 62. Bf6+ Kd5 63. Bxh8 Kxe6 64. Ke4 Kd6 65. a5 Kc6 66. Bc3
+a6 67. Kd4 Kb7 68. Kc5 Ka8 69. Kb6 Kb8 70. Kxa6 Ka8 71. Be5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.23"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2736"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto defence deferred"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. d4 exd4 6. Bg5 f6 7. Bh4 Bg7 8. Nxd4
+Nge7 9. Nc3 Nxd4 10. Qxd4 O-O 11. Qd2 d6 12. O-O g5 13. Bg3 Ng6 14. Nd5 f5 15.
+exf5 Bxf5 16. c3 b5 17. Bc2 Bxc2 18. Qxc2 c6 19. Ne3 Qf6 20. a4 Rae8 21. axb5
+axb5 22. Rfe1 h5 23. h3 d5 24. Nf1 Re6 25. Rxe6 Qxe6 26. Qd1 h4 27. Bh2 d4 28.
+cxd4 Qe4 29. Qb3+ Kh8 30. Be5 Nxe5 31. dxe5 Qxe5 32. Ra2 Qc5 33. Ne3 Qc1+ 34.
+Qd1 Bxb2 35. Rxb2 Qxb2 36. Qh5+ Kg8 37. Qxg5+ Qg7 38. Qxh4 Qa1+ 39. Kh2 Qf6 40.
+Qg4+ Kh7 41. Qd7+ Rf7 42. Qd3+ Qg6 43. Qd2 Qe4 44. g3 c5 45. Ng4 Qd4 46. Qh6+
+Kg8 47. Qe6 Kf8 48. Qh6+ Ke7 49. Qg5+ Ke8 50. Qg8+ Ke7 51. Qg5+ Kd7 52. Ne5+ Ke6
+53. Nxf7 Qxf2+ 54. Kh1 Qf1+ 55. Kh2 Qf2+ 56. Kh1 Kxf7 57. Qd5+ Ke7 58. Qb7+ Kd6
+59. Qxb5 Ke5 60. h4 Kd4 61. Qa4+ Ke3 62. Qb3+ Kd4 63. Qa4+ Ke3 64. Qb3+ Ke2 65.
+h5 Qf5 66. Kg2 Qf1+ 67. Kh2 Qf5 68. Kg2 Qe4+ 69. Kh2 c4 70. Qb2+ Kd1 71. h6 Qd3
+72. Qa1+ Kc2 73. Qa2+ Kc1 74. Qa1+ Kd2 75. Qb2+ Kd1 76. Qa1+ Ke2 77. Qe5+ Kf1
+78. Qf4+ Ke1 79. Qe5+ Kd2 80. Qb2+ Kd1 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.23"]
+[White "Firouzja, Alireza"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2770"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "12573981"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 e6 5. g4 Bb4 6. Ne2 O-O 7. a3 Be7 8. g5 Nh5
+9. h4 Nxf4 10. Nxf4 c5 11. Bd3 c4 12. Bxh7+ Kxh7 13. Qh5+ Kg8 14. g6 fxg6 15.
+Nxg6 Rf5 16. Qh8+ Kf7 17. Qh7 Bf6 18. e4 dxe4 19. Nh8+ Ke7 20. O-O-O Nd7 21.
+Nxe4 Nf8 22. Qg8 Qe8 23. h5 Nd7 24. Ng6+ Kd8 25. Qxe8+ Kxe8 26. Nd6+ Kd8 27.
+Nxf5 exf5 28. f4 a5 29. d5 Ra6 30. Rhe1 Nc5 31. Ne5 Bd7 32. Rg1 Kc7 33. Nxc4 Ne4
+34. Ne5 Kd6 35. h6 gxh6 36. Rg6 h5 37. Rh6 Be8 38. Rh7 b5 39. a4 Nf2 40. Rh6 Kc5
+41. d6 Bxe5 42. fxe5 Nxd1 43. d7 Ra8 44. Rh8 Bxd7 45. Rxa8 Ne3 46. Ra6 Nc4 47.
+e6 Be8 48. e7 bxa4 49. Ra8 Nd6 50. Rxa5+ Kb6 51. Ra8 h4 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.23"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2776"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Qd3 Be6 10. Bd2 Nc6 11. Nd5 Bxd5 12. exd5 e4 13. Qe3 Nxd5 14. Qxe4 Nf6
+15. Qf5 d5 16. Rad1 g6 17. Qh3 Qc7 18. Bd3 Rfe8 19. Rfe1 Rad8 20. Qf3 Nh5 21. g4
+Ng7 22. Bf4 Bd6 23. Rxe8+ Rxe8 24. Bg3 Bxg3 25. hxg3 Ne5 26. Qxd5 Nxg4 27. Qc4
+Qxc4 28. Bxc4 Nf5 29. Bd3 Re5 30. f3 Nf6 31. Kf2 h5 32. Rd2 Kf8 33. Re2 Rxe2+
+34. Bxe2 Ke7 35. Na5 b6 36. Nc4 Nd7 37. a4 Nd4 38. Bd1 b5 39. axb5 axb5 40. Ne3
+Kd6 41. c3 Ne6 42. b4 f5 43. f4 Nf6 44. Bf3 h4 45. c4 hxg3+ 46. Kxg3 bxc4 47.
+Nxc4+ Kc7 48. b5 g5 49. b6+ Kb8 50. fxg5 Nxg5 51. Bc6 Ne6 52. Ne5 f4+ 53. Kh4
+Nd4 54. Bh1 f3 55. Nxf3 Nxf3+ 56. Bxf3 Nd7 57. Bh1 Nxb6 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[Round "1.24"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2021.03.16"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be3 a6 5. Nc3 b5 6. Bd3 Nd7 7. O-O Bb7 8. a4 b4
+9. Nb1 Ngf6 10. Nbd2 c5 11. c3 O-O 12. a5 cxd4 13. cxd4 e5 14. dxe5 Nxe5 15.
+Nxe5 dxe5 16. Qb3 Qe7 17. Ra4 Rfb8 18. Rxb4 Bf8 19. Rb6 Ng4 20. Bc4 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.11"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2789"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 b5 6. Nxb5 Nxe4 7. Qa4 c6 8. Nc3
+Nxc3 9. bxc3 Ba6 10. Bxc4 Bxc4 11. Qxc4 Bd6 12. O-O O-O 13. Rb1 Qc7 14. Qd3 Nd7
+15. c4 c5 16. d5 exd5 17. Qxd5 Nb6 18. Qd3 Rad8 19. Qc2 h6 20. a4 Rfe8 21. Be3
+Bf4 22. a5 Nc8 23. Bxf4 Qxf4 24. Rfd1 Rxd1+ 25. Rxd1 Nd6 26. Qa4 Re6 27. Qd7 Ne4
+28. Re1 a6 29. Qd8+ Kh7 30. Qd3 f5 31. g3 Rd6 32. Qb3 Qg4 33. Kg2 Qg6 34. Rd1
+Rxd1 35. Qxd1 Qd6 36. Qb3 Qe6 37. Qd3 Qd6 38. Qe3 Qc7 39. Nh4 g6 40. Qd3 Qb7 41.
+Nf3 Kg7 42. Ne5 Kf6 43. Nd7+ Kf7 44. Nb6 Nf6+ 45. f3 Qe7 46. Nd5 Qd7 47. h4 g5
+48. Qb3 Qe6 49. Qb7+ Kg6 50. Kf2 Nxd5 51. cxd5 Qf6 52. Qb6 Kf7 53. hxg5 hxg5 54.
+Qxc5 Qb2+ 55. Ke3 Qb3+ 56. Kd4 Qd1+ 57. Ke5 Qxf3 58. Qa7+ Kg6 59. Qxa6+ Kh5 60.
+Qe6 Qxg3+ 61. Kf6 Qc3+ 62. Qe5 Qxe5+ 63. Kxe5 f4 64. Ke4 Kg4 65. d6 f3 66. Ke3
+Kg3 67. d7 f2 68. d8=Q f1=Q 69. Qxg5+ Kh3 70. Qh5+ Kg3 71. Qg6+ Kh3 72. Qd3 Qf8
+73. a6 Qf7 74. Ke2+ Kg2 75. Qe4+ Kh2 76. Qh4+ Kg2 77. Qg5+ Kh2 78. Qe5+ Kg2 79.
+Qe4+ Kh2 80. Ke3 Qb3+ 81. Kf2 Qb6+ 82. Kf3 Qb3+ 83. Qe3 Qd5+ 84. Kf2 Qf5+ 85.
+Ke1 Qb1+ 86. Ke2 Qb5+ 87. Qd3 Qe5+ 88. Kd2 Qa5+ 89. Ke3 Qe5+ 90. Kf3 Qg3+ 91.
+Ke2 Qe5+ 92. Kd1 Qa1+ 93. Kd2 Qa2+ 94. Ke1 Qa1+ 95. Kf2 Qf6+ 96. Qf3 Qb6+ 97.
+Qe3 Qf6+ 98. Qf3 Qb6+ 99. Ke1 Qa5+ 100. Kf2 Qb6+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.11"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 O-O 8. d4
+Bd6 9. Bg5 f6 10. Bh4 Qe7 11. Nbd2 Qf7 12. Bg3 Re8 13. Qc2 a5 14. b3 exd4 15.
+cxd4 Bxg3 16. hxg3 Nb6 17. a4 Bg4 18. Rfe1 h6 19. Re3 Re7 20. Rae1 Rae8 21. Qc3
+Qh5 22. Nh2 Be6 23. f4 f5 24. Qxa5 Bf7 25. g4 fxg4 26. Qc3 Qh4 27. Ndf1 g3 28.
+Nxg3 Qxf4 29. Nf5 Rxe4 30. Rxe4 Rxe4 31. Rf1 Qg5 32. Nxh6+ gxh6 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.12"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2847"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 Nc5 11. Bc2 d4 12. Nb3 dxc3 13. bxc3 Qxd1 14. Rxd1 Na4
+15. Be4 Bd7 16. Rxd7 Kxd7 17. Bf5+ Ke8 18. Be4 Kd7 19. Bf5+ Ke8 20. Be4 Kd7 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.12"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2776"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Rxb7 Bxf3 14.
+Bxf3 Bxd4 15. e5 Na6 16. Rxe7 Rad8 17. e6 fxe6 18. Qe1 Nc5 19. Bc3 Nd3 20. Bxd4
+Nxe1 21. Rg7+ Kh8 22. Rd7+ Kg8 23. Rg7+ Kh8 24. Rd7+ Kg8 25. Rg7+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.13"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2789"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. Nxb5 Nb6 8. Be2
+Nc6 9. O-O Be7 10. Qd2 Bb7 11. Rd1 Qd7 12. Nc3 Nb4 13. a3 N4d5 14. Ne4 Qc6 15.
+Re1 O-O-O 16. Bf1 f5 17. exf6 gxf6 18. Qe2 Kb8 19. Bd2 Rhg8 20. Rac1 Bd6 21. g3
+f5 22. Nxd6 cxd6 23. Bg2 Rde8 24. Nh4 Qb5 25. Rb1 Qb3 26. Bc3 Nf4 27. gxf4 Rg4
+28. h3 Rxh4 29. Bxb7 Kxb7 30. Qf3+ Ka6 31. d5 Nxd5 32. Rxe6 Rxe6 33. Qxd5 Rg6+
+34. Kf1 Qb5 35. Rd1 Qxd5 36. Rxd5 Rxf4 37. Bd4 Rf3 38. Be3 f4 39. Rf5 Re6 40.
+Bd4 Re4 41. Kg2 Rd3 42. Bc3 d5 43. Rf6+ Kb5 44. Rf7 d4 45. Bb4 Re2 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.13"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 a5 8. d4
+Bd6 9. Re1 a4 10. Nbd2 exd4 11. cxd4 Nb6 12. Nf1 O-O 13. Bg5 f6 14. Bh4 Bg4 15.
+h3 Bh5 16. Qd3 Qd7 17. g4 Bg6 18. Ne3 Nd5 19. Nf5 Nf4 20. Qf1 Bxf5 21. gxf5 g6
+22. Bg3 Nh5 23. fxg6 hxg6 24. Qg2 Kh7 25. Rad1 Rae8 26. a3 Bxg3 27. fxg3 Qd6 28.
+Kh2 Re7 29. Rd2 Kg7 30. e5 Qd7 31. Re4 Qd5 32. exf6+ Kxf6 33. Re5 Qd7 34. Rg5
+Qd6 35. Rf2 Kg7 36. Nh4 Re6 37. Nf5+ Rxf5 38. Rfxf5 Qxd4 39. Rg4 Qd6 40. Rf2 Re3
+41. Re2 Rd3 42. Qf2 c5 43. Rg5 c4 44. Rge5 Nxg3 45. Re7+ Kh6 46. Qf8+ Kg5 47.
+Rg2 Re3 48. Rf7 Qd1 49. Rf1 Qd3 50. Rf4 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.14"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2847"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bf1 b6 7. c4 Bb7 8. Nc3
+Ne5 9. a3 e6 10. b4 Be7 11. Rb1 Qc7 12. d3 O-O 13. Nxe5 dxe5 14. bxc5 Bxc5 15.
+Na4 Bd4 16. Be3 Bxe3 17. fxe3 b5 18. cxb5 axb5 19. Rxb5 Bc6 20. Rb4 Rfb8 21. Nb2
+Rxa3 22. Rxb8+ Qxb8 23. Nc4 Ra8 24. Qc2 Nd7 25. Rb1 Qa7 26. Nb6 Nxb6 27. Qxc6
+Nd7 28. d4 Nf6 29. Rb7 Qa3 30. Rb3 Qf8 31. dxe5 Rc8 32. Qa4 Ng4 33. Qd4 Rd8 34.
+Qc3 Qe7 35. h3 Nh6 36. Qb2 g6 37. Rb8 Rxb8 38. Qxb8+ Kg7 39. Kf2 Qh4+ 40. Kf3
+Ng8 41. Qd6 Qh5+ 42. Kf2 Qg5 43. g3 h5 44. h4 Qg4 45. Bg2 Nh6 46. Qd8 Kh7 47.
+Qd7 g5 48. Bf3 Qh3 49. hxg5 Qh2+ 50. Kf1 Qxg3 51. Bxh5 Qxe3 52. g6+ Kg7 53. gxf7
+Qh3+ 54. Ke1 Qh4+ 55. Kd2 Qxh5 56. Qxe6 Nxf7 57. Qf6+ Kg8 58. e6 Qh2+ 59. Kc3
+Qc7+ 60. Kb2 Qb6+ 61. Ka1 Qa5+ 62. Kb1 Qb5+ 63. Ka1 Nd6 64. Qd8+ Ne8 65. Qd7
+Qe5+ 66. Ka2 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.18"]
+[Round "2.14"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2776"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. c5 c6 8. Bd3 Bg4
+9. Nge2 b6 10. Na4 Nfd7 11. f3 e5 12. Bxe5 Nxe5 13. dxe5 Bc8 14. f4 f6 15. exf6
+Qxf6 16. O-O Qe7 17. Qd2 Re8 18. Rf3 Bg4 19. Rg3 Bxe2 20. Bxe2 Nd7 21. b4 Nf6
+22. Nc3 bxc5 23. bxc5 Rad8 24. f5 gxf5 25. Rf1 Ne4 26. Nxe4 fxe4 27. Bg4 Rf8 28.
+Bf5 Rf6 29. Qe2 Qf7 30. Qg4 Rf8 31. Rf2 Kh8 32. Be6 Qe7 33. Bf5 Bh6 34. Rh3 Qe5
+35. Rf1 Rxf5 36. Rxf5 Rxf5 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.21"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2847"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Rb8 10. Nd5 Nxd5 11. Bxd5 Bd7 12. b4 Bf6 13. Be3 Ne7 14. Bb3 Ng6 15. a4
+bxa4 16. Bxa4 Rxb4 17. Bxd7 Qxd7 18. Rxa6 Ra4 19. Rxa4 Qxa4 20. Qb1 Qc6 21. Qb3
+Ra8 22. Rb1 Nf8 23. g3 Ne6 24. h4 h5 25. Nd2 g6 26. Qd5 Qa4 27. Nc4 Rd8 28. Rc1
+Rb8 29. Qa5 Qd7 30. Qa7 Qc8 31. Ra1 Kg7 32. Kf1 Rb7 33. Qa8 Rb1+ 34. Ke2 Rb8 35.
+Qa6 Qd7 36. Qa4 Qd8 37. Qc6 Kh7 38. Nd2 Bg7 39. Nf3 Bh6 40. Bxh6 Kxh6 41. Qc3
+Kg7 42. Kf1 Rb5 43. Kg2 Qb8 44. d4 exd4 45. Nxd4 Nxd4 46. Qxd4+ Kg8 47. Ra4 Re5
+48. Qa1 Qb7 49. Kh2 Re8 50. Qc3 Rxe4 51. Rxe4 Qxe4 52. Qxc7 d5 53. Qc8+ Kg7 54.
+Qc3+ Kf8 55. Qc8+ Ke7 56. Qc7+ Kf6 57. Qc3+ Qe5 58. Qc6+ Kg7 59. Qc5 Qe4 60.
+Qc3+ Kh7 61. Qc7 Qe6 62. Qc5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.21"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2776"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "5202213"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 Nf6 5. O-O e6 6. Re1 a6 7. c4 Be7 8. Nc3
+O-O 9. d4 cxd4 10. Nxd4 Qc7 11. Qe2 Ne5 12. Bb3 Ng6 13. Kh1 Re8 14. Be3 b6 15.
+Ba4 Bd7 16. Bxd7 Nxd7 17. Rac1 Rac8 18. b3 Qb7 19. f3 Nf6 20. Bf2 Bf8 21. Qd2
+Qb8 22. a4 h6 23. Nc2 Red8 24. Red1 Qb7 25. h3 Be7 26. Qe3 Qa8 27. Qd2 Qb7 28.
+Rb1 d5 29. exd5 exd5 30. Nxd5 Nxd5 31. cxd5 Bg5 32. Ne3 Ne7 33. d6 Nf5 34. Qd5
+Qxd5 35. Nxd5 Rc2 36. Ne7+ Nxe7 37. dxe7 Re8 38. Bxb6 Rxe7 39. b4 Ree2 40. Rg1
+Ra2 41. a5 Be7 42. Bd4 Ra4 43. Bc3 Rc2 44. Rgc1 Rxc1+ 45. Rxc1 Bxb4 46. Bxb4
+Rxb4 47. Rc8+ Kh7 48. Rc6 Ra4 49. Rxa6 h5 50. Ra8 h4 51. a6 Ra1+ 52. Kh2 Ra2 53.
+a7 g5 54. Kg1 Kg7 55. Kf1 Kf6 56. Ke1 Kf5 57. Kf1 Kf4 58. Re8 Rxa7 59. Re4+ Kf5
+60. Kg1 f6 61. Kh2 Rd7 62. Re3 Rc7 63. Re4 Rd7 64. Re3 Rc7 65. Re4 Rd7 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.22"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2789"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Bb4 6. Qa4+ Nc6 7. e3 h6 8.
+Bxf6 Qxf6 9. Ne2 O-O 10. a3 Bxc3+ 11. Nxc3 Ne7 12. Be2 c6 13. O-O Nf5 14. b4 Nh4
+15. Kh1 Qg6 16. g3 Nf5 17. b5 h5 18. bxc6 bxc6 19. Rg1 h4 20. gxh4 Qf6 21. h5 c5
+22. Nxd5 Bb7 23. Bf3 Bxd5 24. Bxd5 Rad8 25. Qc6 Qxc6 26. Bxc6 cxd4 27. Rg5 Ne7
+28. Bf3 dxe3 29. fxe3 Rd3 30. Re5 Nc8 31. a4 Nd6 32. Rc1 Rb8 33. Kg2 Rbb3 34.
+Rc6 Kf8 35. a5 f6 36. Re6 Nf5 37. h6 Nxh6 38. Rc8+ Kf7 39. Ra6 Rd2+ 40. Kg3 Nf5+
+41. Kf4 Rf2 42. Rxa7+ Kg6 43. Rcc7 Kh6 44. Kxf5 Rxe3 45. Rc5 g6+ 46. Kg4 Rfxf3 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.22"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ne7 10. Nc3 Bd7 11. Ne4 b6 12. Re1 Kc8 13. Nfg5 Be8 14. Nd6+
+cxd6 15. exd6 Kd7 16. dxe7 Bxe7 17. Bf4 Rd8 18. Rad1+ Kc8 19. Ne4 Rxd1 20. Rxd1
+Bd7 21. Nd6+ Bxd6 22. Rxd6 Re8 23. Be3 c5 24. a3 Bf5 25. Rd2 h5 26. Kf1 Be4 27.
+Bf4 Rd8 28. Rxd8+ Kxd8 29. c3 Kd7 30. g3 Kc6 31. Ke1 Kb5 32. Bb8 a6 33. Kd2 Kc4
+34. Ba7 b5 35. b4 cxb4 36. axb4 g6 37. h4 Bf5 38. Bb6 Bg4 39. Ba7 Bf5 40. Bb6
+Bg4 41. Ba7 Bf5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.23"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2847"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Qb6 5. Nc3 a6 6. a3 Qc7 7. g3 Nf6 8. Bg2
+Nc6 9. O-O h5 10. Nxc6 bxc6 11. Bf4 e5 12. Bg5 Bc5 13. Qf3 d6 14. h3 Nd7 15.
+Rad1 Nf8 16. Na4 Ne6 17. Be3 Bxe3 18. Qxe3 h4 19. Nb6 Rb8 20. Nc4 O-O 21. Nxd6
+hxg3 22. fxg3 Rxb2 23. Qc3 Qb8 24. Nf5 Rb5 25. Ne7+ Kh7 26. Kh2 Qc7 27. Nf5 Rc5
+28. Qd2 Rd8 29. Qf2 Rc3 30. a4 Nd4 31. Nxd4 Rxd4 32. Qe2 Be6 33. Rxd4 exd4 34.
+Qh5+ Kg8 35. Rf4 Qe7 36. Rh4 f6 37. e5 fxe5 38. Qxe5 Rxc2 39. Re4 d3 40. Qxe6+
+Qxe6 41. Rxe6 d2 42. Rd6 c5 43. g4 c4 44. Kg3 c3 45. Kh4 Kf8 46. Bf3 Rc1 47. Rd3
+Ke7 48. Kg5 Rf1 49. Re3+ Kd6 50. Rd3+ Ke5 51. Rxc3 Rxf3 52. Rxf3 d1=Q 53. Rf5+
+Ke4 54. a5 Qd6 55. Kh4 g6 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.23"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2776"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[WhiteFideId "5202213"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. c4 c5 5. dxc5 Bg7 6. cxd5 Qxd5 7. e4 Qxc5 8.
+Bd3 O-O 9. O-O Nc6 10. h3 Rd8 11. Qe2 Be6 12. Nb3 Bxb3 13. axb3 Nh5 14. Kh1 e6
+15. Ra4 Qd6 16. Bc2 a6 17. Bg5 Rdc8 18. Rd1 Qc7 19. Rc4 Nf6 20. e5 Nd7 21. Bf4
+Nb6 22. Re4 Rd8 23. Rxd8+ Rxd8 24. h4 h5 25. g3 Rd5 26. Kg2 a5 27. Bd3 Qd7 28.
+Bb5 Qc7 29. Be3 Rd8 30. Bc5 Nc8 31. Be3 N8e7 32. Bg5 Rd5 33. Bc4 Rd7 34. Bb5 Rd5
+35. Bc4 Rd7 36. Bxe7 Rxe7 37. Bb5 Rd7 38. g4 hxg4 39. Rxg4 Rd5 40. Bxc6 Qxc6 41.
+Rc4 Rc5 42. Kg3 b5 43. Rxc5 Qxc5 44. Qe4 Qd5 45. Qxd5 exd5 46. Kf4 f6 47. e6
+Bh6+ 48. Kg3 Bc1 49. Nd4 Bxb2 50. Nxb5 Kf8 51. f4 f5 52. Nc7 Ke7 53. Nxd5+ Kxe6
+54. Ne3 Bc3 55. Kh3 Bf6 56. Nc4 Bc3 57. Ne3 Bb4 58. Nc4 Bc3 59. Ne3 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.24"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2789"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 h6 8. g3 Be7
+9. Bg2 O-O 10. O-O Be6 11. Nh4 Nbd7 12. Nf5 Bxf5 13. exf5 Qc7 14. a5 Rab8 15.
+Be3 Rfc8 16. Qd3 Bf8 17. Rfc1 b6 18. axb6 Nxb6 19. Rxa6 Nc4 20. Nd5 Qd8 21. b3
+Nxe3 22. Qxe3 Rc5 23. c4 Qc8 24. Nxf6+ gxf6 25. Ra7 Qxf5 26. Bd5 Qg5 27. Rb1
+Qxe3 28. fxe3 Rb4 29. Bxf7+ Kh8 30. Bd5 Rc8 31. Kg2 Rcb8 32. Rf7 Bg7 33. Ra1 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.24"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 Nc6 6. Be2 Nge7 7. Na3 Nf5 8. Nc2
+cxd4 9. cxd4 Be7 10. O-O O-O 11. Bd2 Rc8 12. Bd3 f6 13. exf6 Bxf6 14. Bc3 Qb6
+15. Qd2 Kh8 16. Bxf5 exf5 17. Ne5 Be6 18. Nxc6 Rxc6 19. Rfe1 Bg8 20. Re2 h6 21.
+Rae1 Bg5 22. f4 Bf6 23. Re8 Rxe8 24. Rxe8 Kh7 25. Qd3 Be6 26. g4 Qc7 27. Rxe6 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.31"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2847"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Rb8 10. Nd5 Nxd5 11. Bxd5 Bd7 12. b4 Bf6 13. Be3 Ne7 14. Bb3 Ng6 15. c3
+a5 16. bxa5 Ra8 17. a4 bxa4 18. Bxa4 Rxa5 19. Bxd7 Rxa1 20. Qxa1 Qxd7 21. Rb1
+Qc6 22. Nd2 Ra8 23. Qb2 Nf8 24. d4 exd4 25. cxd4 h6 26. Qb3 Qa4 27. Qxa4 Rxa4
+28. d5 Bd4 29. Bxd4 Rxd4 30. Rb2 f5 31. f3 fxe4 32. fxe4 Nd7 33. Kf2 Nc5 34. Ke3
+Rd3+ 35. Ke2 Rd4 36. Ke3 Rd3+ 37. Ke2 Rc3 38. Rb8+ Kf7 39. Rc8 Nd7 40. Nf3 Nf6
+41. Nd2 Kg6 42. g3 Kh5 43. e5 Nxd5 44. exd6 cxd6 45. Rd8 Re3+ 46. Kf2 Re6 47.
+Nc4 Nf6 48. Kf3 d5 49. Ne3 Re5 50. Kf4 Re4+ 51. Kf3 Rd4 52. Nf5 Rd3+ 53. Ke2 Ra3
+54. Nxg7+ Kg6 55. Ne6 Ra2+ 56. Kf3 Rxh2 57. Nf4+ Kf7 58. Nxd5 Rd2 59. Rh8 Rxd5
+60. Rxh6 Ke6 61. Rh4 Rd3+ 62. Ke2 Rxg3 63. Ra4 Nd5 64. Ra8 Ke5 65. Re8+ Kd4 66.
+Rd8 Re3+ 67. Kf2 Re5 68. Ra8 Kd3 69. Ra3+ Nc3 70. Kf3 Rf5+ 71. Kg4 Rf8 72. Ra7
+Nb5 73. Rd7+ Nd4 74. Re7 Nf5 75. Ra7 Ne3+ 76. Kg3 Nf5+ 77. Kf4 Nd4+ 78. Kg3 Nc6
+79. Ra4 Ne5 80. Ra3+ Ke4 81. Ra4+ Ke3 82. Ra3+ Nd3 83. Kg4 Rf1 84. Kg5 Ke4 85.
+Ra4+ Kd5 86. Ra5+ Nc5 87. Kg4 Kd4 88. Ra8 Ne6 89. Ra4+ Ke5 90. Ra5+ Ke4 91. Ra4+
+Nd4 92. Kg5 Rf5+ 93. Kg6 Rb5 94. Kf6 Rd5 95. Kg6 Kf4 96. Kf6 Rd7 97. Ra6 Rh7 98.
+Ra4 Rh6+ 99. Ke7 Ke4 100. Ra1 Nc6+ 101. Kf7 Ne5+ 102. Ke7 Nd3 103. Kf7 Kf5 104.
+Ke7 Re6+ 105. Kd7 Ne5+ 106. Kc7 Rb6 107. Kxb6 Ke4 108. Ra4+ Kd5 109. Rh4 Nc4+
+110. Kc7 Ne5 111. Rh5 Kd4 112. Kd6 Nc4+ 113. Ke6 Ne3 114. Rh4+ Kd3 115. Ke5 Nc4+
+116. Kd5 Ne3+ 117. Kc5 Nc2 118. Ra4 Ne3 119. Rd4+ Kc3 120. Rd8 Nc2 121. Kd5 Kd3
+122. Ke5+ Ke3 123. Rc8 Kd3 124. Rd8+ Ke3 125. Rh8 Kd3 126. Rh4 Kc3 127. Kd5 Ne3+
+128. Ke4 Nc2 129. Rh8 Kd2 130. Rh3 Nb4 131. Rb3 Nc2 132. Rd3+ Ke2 133. Rh3 Kd2
+134. Rb3 Ne1 135. Ra3 Nc2 136. Rd3+ Ke2 137. Rd8 Ne1 138. Rh8 Kd2 139. Rh1 Nc2
+140. Rh3 Ne1 141. Rg3 Nc2 142. Rd3+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.19"]
+[Round "2.32"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2789"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Ne2 h5 10. h3 Nxg3 11. Nxg3 h4 12. Nh5 c6 13. Be2 Nd7 14. Qb3 Bxc3+ 15.
+Qxc3 Nf6 16. Nxf6+ Qxf6 17. b4 a6 18. a4 Bf5 19. b5 axb5 20. axb5 O-O 21. O-O
+Qe6 22. Rfc1 cxb5 23. Qb3 Rxa1 24. Rxa1 Rc8 25. Bf3 Be4 26. Bxe4 Qxe4 27. Qxb5
+Rc7 28. Qb6 Qe7 29. Qa5 Qd6 30. Rb1 Kg7 31. Qb5 b6 32. Qd3 Qe6 33. Qa6 Qd6 34.
+Qe2 Qg6 35. Ra1 Qe4 36. Qb5 Qe6 37. Qb4 Rc4 38. Qb1 Qc6 39. Qf5 Rc1+ 40. Rxc1
+Qxc1+ 41. Kh2 Qc7+ 42. g3 hxg3+ 43. Kg2 Qd8 44. Kxg3 b5 45. Qb1 Qd6+ 46. Kf3 b4
+47. Qb3 Qf6+ 48. Kg2 Qd6 49. Kg1 f6 50. Kg2 Qb6 51. h4 gxh4 52. Kh3 Qb5 53. Kxh4
+Kf7 54. Kg4 Ke6 55. Kf4 Qc4 56. Qa4 b3 57. Qe8+ Kd6 58. Qb8+ Kc6 59. Kf5 Qb5 60.
+Qc8+ Kb6 61. Qb8+ Ka5 62. Qa7+ Kb4 63. Qa1 Qe2 64. Ke6 b2 65. Qa6 Qxa6+ 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.11"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2789"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Nc6 7. Be3 cxd4 8. Nb5
+Qd8 9. Nbxd4 Nxd4 10. Bxd4 Be7 11. Bd3 O-O 12. Qc2 h6 13. O-O-O Qa5 14. Kb1 b5
+15. Be4 Rb8 16. Ne5 Bb7 17. Bxb7 Rxb7 18. Rd3 Rc8 19. Rg3 b4 20. Nxf7 bxc3 21.
+Nxh6+ Kf8 22. Rxc3 Rxc3 23. Bxc3 Qd5 24. Bxf6 Bxf6 25. Qc8+ Bd8 26. Ng4 Rc7 27.
+Qb8 Kf7 28. Ne3 Qd3+ 29. Ka1 Qd6 30. Qb3 Bf6 31. Rb1 a5 32. a4 Qd7 33. Ka2 Rb7
+34. Qc2 Kg8 35. b3 Rc7 36. Nc4 Rc5 37. Rd1 Qc6 38. f3 Kh8 39. h3 Rd5 40. Rxd5
+exd5 41. Ne3 Qe6 42. Ng4 Bd4 43. Qd3 Bc5 44. f4 Qe1 45. Qxd5 Qc3 46. Qh5+ Kg8
+47. Qe8+ Kh7 48. Qe4+ Kh8 49. Qa8+ Kh7 50. Qe4+ Kh8 51. Qa8+ Kh7 52. Qe4+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.11"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2770"]
+[ECO "C46"]
+[Opening "Four knights game"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. a4 Bb4 5. Bd3 d6 6. O-O O-O 7. Nd5 Bc5 8. c3
+a5 9. Bc2 Nxd5 10. exd5 Ne7 11. Ng5 h6 12. d4 Bb6 13. Nh7 Re8 14. Nf6+ gxf6 15.
+Qh5 e4 16. Re1 f5 17. Bxh6 Nxd5 18. Bg5 f6 19. Bb3 c6 20. Re3 Kf8 21. Qg6 f4 22.
+Bh6+ Ke7 23. Qh7+ 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.12"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 Bxe6 12. Rxb7 Nxd4 13. Qxd4 Be7 14. Bd3 h6
+15. Bd2 Qc5 16. Ne2 Qxd4 17. Nxd4 Bc8 18. Rb1 O-O 19. Nf5 Bxf5 20. exf5 d5 21.
+Be3 Ng4 22. Bd4 Rfe8 23. O-O Bf6 24. Bxf6 Nxf6 25. Rb4 a5 26. Rd4 Reb8 27. a3
+Kf8 28. Re1 Re8 29. Rb1 Rab8 30. Rxb8 Rxb8 31. Ra4 Ra8 32. c4 Ke7 33. cxd5 Kd6
+34. Kf2 Kxd5 35. Bc4+ Ke5 36. Bxf7 Kxf5 37. Kf3 Ra7 38. Ba2 Ke5 39. h4 g5 40.
+hxg5 hxg5 41. Rc4 g4+ 42. Kf2 Rb7 43. Rc2 Kf4 44. g3+ Ke5 45. Ke3 Ne4 46. Rc4
+Nxg3 47. Rxg4 Nf5+ 48. Kd3 Rd7+ 49. Kc3 Rc7+ 50. Rc4 Rxc4+ 51. Kxc4 Ne3+ 52. Kb5
+Nc2 53. a4 Nb4 54. Bb3 Nd5 55. Bxd5 Kxd5 56. Kxa5 Kc5 57. Ka6 Kc6 58. a5 Kc7 59.
+Ka7 Kc8 60. a6 Kc7 61. Ka8 Kc8 62. a7 Kc7 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.12"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2847"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 Re8 10. Bg5 h6 11. Bh4 d6 12. Nc3 Na5 13. Ba2 b4 14. Bxf6 Bxf6 15. Nd5
+Bxd5 16. Bxd5 c6 17. Ba2 Rb8 18. Nd2 Bg5 19. Nb3 Nxb3 20. Bxb3 a5 21. g3 Qd7 22.
+Qh5 Rf8 23. Rad1 Rbe8 24. h4 Bd8 25. d4 exd4 26. Rxd4 Bb6 27. Rdd1 Qa7 28. Qf3
+Bc5 29. Kg2 Re5 30. Re2 Qe7 31. Rde1 Re8 32. Bc4 Qf6 33. Qxf6 gxf6 34. f4 R5e7
+35. Kf3 Kg7 36. g4 Bd4 37. Rd1 Bc5 38. Rdd2 Kf8 39. b3 Kg7 40. Bd3 d5 41. exd5
+Re3+ 42. Rxe3 Rxe3+ 43. Kg2 cxd5 44. Bf5 d4 45. Bd3 Bd6 46. Rf2 Bc7 47. Rf3 Re1
+48. h5 Re3 49. Rxe3 dxe3 50. Kf3 Bb6 51. Ke4 Bc5 52. Kd5 Bb6 53. Kc6 Bd8 54. Kd7
+Bb6 55. Kc6 Bd8 56. Kd7 Bb6 57. Kc6 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.13"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2789"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Nxc6 Qxc6 8.
+Be2 b5 9. e5 Bb7 10. Bf3 Qc7 11. Bxb7 Qxb7 12. Qd3 Bb4 13. O-O Bxc3 14. Qxc3 Ne7
+15. Bc5 Rc8 16. b4 O-O 17. a4 Rfe8 18. axb5 axb5 19. Qd3 Nd5 20. f4 Ra8 21. Rxa8
+Rxa8 22. f5 f6 23. exf6 Nxf6 24. Bd4 Rf8 25. fxe6 dxe6 26. Qg3 Nd5 27. Rxf8+
+Kxf8 28. Bc5+ Kg8 29. Qe5 Qd7 30. Qd4 Nf6 31. c4 bxc4 32. Qxc4 Qd1+ 33. Qf1 Qc2
+34. Qf2 Qb1+ 35. Qf1 Qc2 36. Qf2 Qb1+ 37. Qf1 Qc2 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.13"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2770"]
+[ECO "C46"]
+[Opening "Four knights game"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. h3 Bb4 5. Nd5 Nxd5 6. exd5 e4 7. dxc6 exf3 8.
+Qxf3 dxc6 9. Bc4 Qe7+ 10. Kd1 O-O 11. Re1 Be6 12. Re2 Bc5 13. d3 Qh4 14. Qf4 Qh5
+15. Qg5 Qxg5 16. Bxg5 Bxc4 17. dxc4 Rfe8 18. c3 Kf8 19. Bf4 Rad8+ 20. Ke1 Bd6
+21. Be3 a6 22. c5 Be5 23. Rd1 f5 24. Rxd8 Rxd8 25. Bd2 Re8 26. Kd1 Kf7 27. Kc2
+Bf6 28. Rxe8 Kxe8 29. Bf4 Kd7 30. Kd3 h5 31. f3 g6 32. g4 Be7 33. gxf5 gxf5 34.
+Kd4 Bf6+ 35. Be5 Bd8 36. Bf4 Bf6+ 37. Be5 Bd8 38. Bf4 Bf6+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.14"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 Bxe6 12. Rxb7 Nxd4 13. Qxd4 Be7 14. Bc4 Rc8
+15. Nd5 Bxd5 16. Bxd5 Nxd5 17. Qxd5 Qc3+ 18. Ke2 Qxc2+ 19. Bd2 Rc5 20. Rc1 Qxc1
+21. Bxc1 Rxd5 22. exd5 h5 23. g3 h4 24. g4 f5 25. Kf3 fxg4+ 26. Kxg4 Rf8 27. Bf4
+g6 28. Rb8+ Kf7 29. Rb6 Rc8 30. Rxa6 Rc4 31. Kf3 g5 32. Bxd6 Bxd6 33. Rxd6 g4+
+34. Ke3 Rc2 35. Kf4 Rxa2 36. Kxg4 Rxh2 37. Rh6 Ke7 38. Rxh4 Rxh4+ 39. Kxh4 Kd6
+40. Kh3 Kxd5 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.20"]
+[Round "3.14"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2847"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. h3 a6 8. Bb3
+Be6 9. Bc2 d5 10. Ng5 Bc8 11. exd5 Qxd5 12. O-O Bf5 13. Nde4 Be7 14. Qf3 Qd7 15.
+b4 Rad8 16. Rd1 Nd5 17. d4 Bg6 18. dxe5 Nxe5 19. Qg3 Nc4 20. h4 Qc6 21. Rd4 Nxb4
+22. Rxd8 Nxc2 23. Rxf8+ Bxf8 24. Rb1 Bxe4 25. Nxe4 Qxe4 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.21"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[WhiteFideId "4168119"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qe2 Qc7 10. O-O-O b5 11. a3 Rb8 12. Kb1 Be7 13. Qe1 O-O 14. Bd3 Bb7 15.
+Qg3 Rfc8 16. Rhf1 e5 17. fxe5 dxe5 18. Nd5 Nxd5 19. exd5 Bxg5 20. Qxg5 Bxd5 21.
+Bxh7+ Kxh7 22. Rxd5 Qxc2+ 23. Ka2 Nf6 24. Rxe5 Rc3 25. Qf5+ Kg8 26. Nc5 b4 27.
+axb4 Rxb4 28. Re8+ Nxe8 29. Qxf7+ Kh7 30. Qh5+ Kg8 31. Qxe8+ Kh7 32. Qh5+ Kg8
+33. Qd5+ Kh7 34. Qh5+ Kg8 35. Qf7+ Kh7 36. Qh5+ 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.21"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2847"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 Nc6 5. a3 Bxc3+ 6. bxc3 b6 7. e4 Ba6 8. Bg5
+h6 9. Bh4 Qc8 10. Bd3 Na5 11. Qe2 d6 12. f4 Qd7 13. Nf3 Nh5 14. g3 g5 15. fxg5
+hxg5 16. Nxg5 Nf4 17. gxf4 Rxh4 18. Qf2 Rh8 19. f5 O-O-O 20. fxe6 fxe6 21. Qf7
+Rdg8 22. Qxd7+ Kxd7 23. Nf3 Rh3 24. Kf2 Rf8 25. Be2 Bxc4 26. Raf1 Rf4 27. Ke3 e5
+28. dxe5 dxe5 29. Rhg1 Bxe2 30. Kxe2 Rxe4+ 31. Kf2 Nc4 32. Rg3 Rh6 33. a4 a5 34.
+Rfg1 Rf4 35. Kg2 Ne3+ 36. Kh1 Nf5 37. Nxe5+ Ke6 38. Rg4 Rf2 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.22"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2789"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. g4 h6 8. h4
+Nf6 9. Nxc6 bxc6 10. Qf3 d5 11. g5 hxg5 12. hxg5 Rxh1 13. Qxh1 Ng4 14. Bd2 Bb7
+15. Qh3 Ne5 16. O-O-O d4 17. Nb1 c5 18. f4 Nc6 19. g6 O-O-O 20. gxf7 Qxf7 21.
+Bc4 Kb8 22. Bxe6 Qc7 23. Bc4 Ka7 24. Na3 Nb4 25. Re1 Be7 26. Kb1 Re8 27. e5 Bd8
+28. Bb3 g5 29. Nc4 gxf4 30. Bxf4 Nd5 31. Bd2 Qg7 32. Nd6 Rh8 33. Qe6 Bh4 34. Rc1
+Nc7 35. Qc4 Qxe5 36. Nf7 Qh2 37. Qxc5+ Kb8 38. Qxd4 Rf8 39. Bf4 Bg3 40. Bxg3
+Qxg3 41. Qb4 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.22"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2847"]
+[BlackElo "2770"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. h3 O-O 10. O-O Nc6 11. Be3 a6 12. a4 e6 13. Rc1 Rfd8 14. b3 Rac8 15.
+Re1 d5 16. cxd5 exd5 17. Nxc6 bxc6 18. exd5 Nxd5 19. Nxd5 cxd5 20. Rxc8 Qxc8 21.
+Bd4 Qc6 22. Bxg7 Kxg7 23. Qd4+ Qf6 24. Re5 h5 25. g4 hxg4 26. hxg4 Rb8 27. g5
+Qb6 28. Rxd5+ Qxd4 29. Rxd4 Rxb3 30. Rd6 Rb4 31. Rxa6 Rg4+ 32. Kf1 Rxg5 33. a5
+Re5 34. Kg2 g5 35. f4 gxf4 36. Kf3 Rf5 37. Ra8 Kh7 38. a6 Rf6 39. Rf8 Rxa6 40.
+Rxf7+ Kg6 41. Rxf4 Rf6 42. Rxf6+ Kxf6 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.23"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[WhiteFideId "4168119"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qe2 Qc7 10. O-O-O b5 11. a3 Be7 12. Kb1 Rb8 13. Qe1 h6 14. Bh4 Bb7 15.
+Bd3 Nc5 16. Nxc5 dxc5 17. e5 Nd5 18. Nxd5 Bxd5 19. Bxe7 Qxe7 20. Be4 b4 21. a4
+b3 22. cxb3 Rxb3 23. Rxd5 exd5 24. Bxd5 Rb4 25. e6 fxe6 26. Bxe6 Qf6 27. b3 Qxf4
+28. Bc4+ Kd8 29. Qe6 Qd4 30. Qxa6 Re8 31. Rf1 Qe4+ 32. Ka2 Rxc4 33. Qxc4 Qxc4
+34. bxc4 Re2+ 35. Kb3 Re3+ 36. Kb2 Re2+ 37. Kb3 Re3+ 38. Kc2 Re2+ 39. Kd3 Rxg2
+40. Rf7 Rxh2 41. Rxg7 Ra2 42. Ke4 Rxa4 43. Kd5 Ra6 44. Kxc5 Kc8 45. Rh7 Rg6 46.
+Kb5 Rf6 47. c5 Re6 48. c6 Re1 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.23"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2847"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2021.03.16"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nf6 7. Nc3 h6 8. a3
+a5 9. b3 Bd6 10. d4 O-O 11. Bb2 e4 12. Nd2 Nxd4 13. Ndxe4 Be5 14. Nxf6+ Bxf6 15.
+e3 Nb5 16. Nxb5 Bxb2 17. Qxd8 Rxd8 18. Rad1 Bg4 19. Rb1 Be5 20. Rfc1 c6 21. Nc3
+Bxc3 22. Rxc3 Rd2 23. h3 Bf5 24. e4 Be6 25. b4 axb4 26. Rxb4 Ra7 27. f4 f6 28.
+h4 Kf8 29. f5 Bf7 30. g4 Be8 31. g5 b5 32. e5 fxe5 33. Re4 Ra4 34. Rxa4 bxa4 35.
+Bxc6 Bxc6 36. Rxc6 hxg5 37. hxg5 Rd4 38. Rc8+ Ke7 39. Rc7+ Kf8 40. Kh2 Rf4 41.
+Rc8+ Ke7 42. Rc7+ Kf8 43. Rc8+ Ke7 44. Rc7+ Kf8 1/2-1/2
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.24"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2789"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Nbd2 Ng6 7. h4 h5 8. e5
+d6 9. exd6 e5 10. Nc4 Bg4 11. Bg5 f6 12. Bd2 Bxd6 13. Qe2 Bc7 14. O-O-O O-O 15.
+Kb1 Rb8 16. Rdg1 Nf4 17. Bxf4 exf4 18. Re1 Qd5 19. Qd1 Rfe8 20. b3 Kf7 21. a4
+Rbd8 22. Ka2 Kg6 23. Rhg1 Kh6 24. Rh1 Qf7 25. Kb1 Be6 26. Nfd2 Bd5 27. Rhg1 Qg6
+28. Rxe8 Rxe8 29. f3 f5 30. Qf1 Qg3 31. Rh1 Bd8 32. Nd6 Rf8 33. N2c4 Bxh4 34.
+Ne5 Rf6 35. c4 Bg8 36. Nb7 Re6 37. Rh3 Rxe5 38. Rxg3 Bxg3 0-1
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.31"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2789"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2021.03.16"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Bd7 6. Be2 Nge7 7. Na3 cxd4 8. cxd4
+Ng6 9. Nc2 f6 10. exf6 gxf6 11. O-O Bd6 12. g3 h5 13. Bd3 Nce7 14. Ne3 h4 15.
+Ng4 Kf7 16. Re1 Qf8 17. Nfe5+ fxe5 18. dxe5 Bc5 19. Bg5 hxg3 20. hxg3 Bc6 21.
+Rc1 d4 22. Be4 Bxe4 23. Rxe4 Nf5 24. Qa4 Rc8 25. Bf6 Rh7 26. Qd7+ Nge7 27. Bxe7
+Qxe7 28. Qxc8 Bb6 29. Nf6 Rg7 30. Qh8 d3 31. Qh5+ Rg6 32. Rg4 1-0
+
+[Event "Magnus Carlsen Inv KO"]
+[Site "chess24.com INT"]
+[Date "2021.03.21"]
+[Round "3.32"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "24116068"]
+[EventDate "2021.03.16"]
+
+1. b3 d5 2. Bb2 Bf5 3. d3 c5 4. Nd2 Nf6 5. g3 Nc6 6. Bg2 e5 7. e4 dxe4 8. dxe4
+Be6 9. Ngf3 Qc7 10. O-O Be7 11. Nc4 Rd8 12. Qb1 Bxc4 13. bxc4 O-O 14. Re1 Nd7
+15. Bf1 Nd4 16. Nd2 Bg5 17. Bxd4 Bxd2 18. Rd1 cxd4 19. Rxd2 Nc5 20. Bd3 Rd6 21.
+Re2 Ra6 22. Qc1 Ra4 23. Qg5 f6 24. Qh5 Ra3 25. Rd2 Qa5 26. Rdd1 Rxa2 27. Rab1
+Qc7 28. Rf1 Ra5 29. Qg4 Ra3 30. f4 exf4 31. gxf4 Nxd3 32. cxd3 Rxd3 33. e5 Re3
+34. Qg2 Qc6 35. Qd5+ Qxd5 36. cxd5 fxe5 37. Rxb7 exf4 38. Rc1 f3 39. Kf2 Re2+
+40. Kf1 Re5 41. Rcc7 Rg5 42. h4 Rg4 43. Kf2 Rg2+ 44. Kf1 f2 0-1
+
